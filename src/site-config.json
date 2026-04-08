@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "American Way Exteriors - Columbus",
+    "phone": "+16149633018",
+    "category": "siding contractor",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Columbus Siding Experts",
+      "heroSubline": "Protecting homes across Central Ohio with quality siding installation and repair. Get a free quote today!",
+      "aboutTitle": "Protecting Columbus Homes, One Siding Project at a Time",
+      "aboutText": [
+        "American Way Exteriors - Columbus started with a simple goal: to provide homeowners in Central Ohio with reliable, durable, and beautiful siding solutions. We're a local team, born and raised right here in Columbus, and we understand the unique challenges our climate presents—from harsh winters and spring thunderstorms to humid summers.",
+        "Our approach is straightforward: quality materials, expert craftsmanship, and transparent communication. We don't cut corners, and we stand behind our work. We believe in treating every home as if it were our own, ensuring a perfect fit and lasting protection against the elements.",
+        "We're committed to giving back to the community that has supported us. We actively participate in local initiatives and partner with organizations dedicated to improving the lives of Columbus residents. When you choose American Way Exteriors, you're choosing a company that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Columbus's climate and housing styles, ensuring the right siding solutions for your home."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium siding products from trusted manufacturers, built to withstand Ohio's weather."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team provides precise and professional installation for lasting performance and curb appeal."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed and accurate quotes with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Ready to Upgrade Your Siding?",
+      "ctaSubline": "Contact us today for a free consultation and discover the American Way Exteriors difference."
+    },
+    "services": [
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Expert siding installation for lasting protection and enhanced curb appeal.",
+        "description": "Protect your Columbus home from the elements with our professional siding installation services. We handle everything from initial consultation and material selection to precise installation and final inspection. We consider Columbus's fluctuating temperatures and common issues like ice dams and foundation shifts. We work with a variety of siding materials, including vinyl, fiber cement, and wood, to match your home's style and your budget. Our experienced installers ensure proper flashing, sealing, and fastening techniques to prevent moisture damage and ensure long-term performance. We understand the unique architectural styles found throughout Columbus, from the Tudor homes of German Village to the ranch homes of Westerville, and we tailor our installation approach to suit each home's specific needs.\n\nWe start with a thorough assessment of your existing siding and identify any underlying issues that need to be addressed. We then work with you to select the perfect siding material and color to complement your home's aesthetic. Our installation process includes removing old siding, preparing the underlying surface, installing weather-resistant barriers, and precisely fitting the new siding. We pay close attention to detail, ensuring that every seam, corner, and edge is properly sealed and secured.\n\nWe are committed to providing exceptional customer service and ensuring your complete satisfaction with our work. We offer a comprehensive warranty on all of our siding installations.",
+        "process": [
+          "Step 1: Consultation and assessment of your home's siding needs.",
+          "Step 2: Material selection and customized quote.",
+          "Step 3: Removal of old siding and preparation of the underlying surface.",
+          "Step 4: Precise installation of new siding with attention to detail."
+        ],
+        "benefits": [
+          "Enhanced curb appeal and property value",
+          "Increased energy efficiency and reduced utility bills",
+          "Protection against weather damage and pests",
+          "Low-maintenance siding options for long-lasting beauty"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but most installations take between 3-7 days. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "What types of siding materials do you offer?",
+            "answer": "We offer a wide range of siding materials, including vinyl, fiber cement (like James Hardie), and wood. We can help you choose the best option for your budget and aesthetic preferences."
+          },
+          {
+            "question": "Do you offer a warranty on your siding installations?",
+            "answer": "Yes, we offer a comprehensive warranty on all of our siding installations. The specific terms of the warranty will vary depending on the siding material and installation package."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair",
+        "shortDescription": "Reliable siding repair services to address damage and maintain your home's protection.",
+        "description": "Don't let damaged siding compromise your Columbus home's protection and curb appeal. We provide prompt and reliable siding repair services to address issues caused by weather, pests, or general wear and tear. We understand the common siding problems that plague Columbus homes, from cracked vinyl siding due to freeze-thaw cycles to woodpecker damage in wooded areas like Upper Arlington. Our experienced technicians can quickly assess the damage and provide effective repair solutions. Whether it's replacing a few damaged panels or addressing more extensive damage, we'll restore your siding to its original condition.\n\nWe use quality materials and proven repair techniques to ensure a seamless and long-lasting repair. We carefully match the existing siding to maintain a consistent appearance. We also address any underlying issues, such as moisture damage or pest infestations, to prevent future problems. Our team is skilled in repairing all types of siding, including vinyl, fiber cement, and wood. We understand the importance of proper sealing and flashing to prevent water intrusion and protect your home from the elements.\n\nWe offer emergency repair services for urgent situations, such as storm damage or significant siding breaches. We're committed to providing fast and reliable service to minimize further damage to your home. We can also work with your insurance company to streamline the claims process.",
+        "process": [
+          "Step 1: Thorough inspection of the damaged siding.",
+          "Step 2: Identification of the cause of the damage and underlying issues.",
+          "Step 3: Precise repair or replacement of damaged siding panels.",
+          "Step 4: Sealing and finishing to ensure a seamless repair."
+        ],
+        "benefits": [
+          "Prevention of further damage and water intrusion",
+          "Restored curb appeal and property value",
+          "Elimination of pest infestations",
+          "Extended lifespan of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Common signs of siding damage include cracks, dents, holes, warping, fading, and loose or missing panels. You should also inspect your siding for signs of moisture damage, such as mold or mildew."
+          },
+          {
+            "question": "Can you match the existing siding on my home?",
+            "answer": "Yes, we can typically match the existing siding on your home. We work with a variety of suppliers and can source siding materials in a wide range of colors and styles."
+          },
+          {
+            "question": "Do you offer emergency siding repair services?",
+            "answer": "Yes, we offer emergency siding repair services for urgent situations, such as storm damage or significant siding breaches. Contact us immediately, and we'll dispatch a team to your home as soon as possible."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Transform your home with new siding, boosting curb appeal and protection.",
+        "description": "Is your siding old, damaged, or outdated? We offer comprehensive siding replacement services to revitalize your Columbus home. New siding can dramatically improve your home's curb appeal, increase its energy efficiency, and protect it from the elements. We understand the unique challenges faced by older homes in neighborhoods like German Village and Clintonville, where original siding may be deteriorating. We offer a wide selection of siding materials, including vinyl, fiber cement, and wood, to suit your style and budget. We'll help you choose the perfect siding to complement your home's architecture and enhance its overall aesthetic.\n\nOur siding replacement process begins with a thorough inspection of your existing siding and underlying structure. We'll identify any hidden problems, such as rot or insect damage, and provide effective solutions. We then carefully remove the old siding and prepare the surface for the new installation. Our experienced installers use precise techniques to ensure a seamless and weather-tight fit. We pay close attention to detail, ensuring that every seam, corner, and edge is properly sealed and secured.\n\nWe are committed to providing exceptional customer service and ensuring your complete satisfaction with our work. We offer a comprehensive warranty on all of our siding replacements.",
+        "process": [
+          "Step 1: Detailed inspection of existing siding and underlying structure.",
+          "Step 2: Selection of new siding materials and colors.",
+          "Step 3: Removal of old siding and preparation of the surface.",
+          "Step 4: Professional installation of new siding with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Dramatically improved curb appeal",
+          "Increased home value",
+          "Enhanced energy efficiency and reduced utility bills",
+          "Long-lasting protection against the elements"
+        ],
+        "faq": [
+          {
+            "question": "How much does siding replacement cost?",
+            "answer": "The cost of siding replacement depends on several factors, including the size of your home, the type of siding you choose, and the complexity of the installation. We'll provide a detailed and accurate quote during the consultation."
+          },
+          {
+            "question": "What are the benefits of fiber cement siding?",
+            "answer": "Fiber cement siding is a durable and low-maintenance option that resists fire, insects, and rot. It's also available in a wide range of styles and colors."
+          },
+          {
+            "question": "Can you help me choose the right siding for my home?",
+            "answer": "Yes, we can help you choose the right siding for your home. We'll consider your budget, aesthetic preferences, and the architectural style of your home."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-siding",
+        "name": "Vinyl Siding Services",
+        "shortDescription": "Durable and affordable vinyl siding solutions for Columbus homeowners.",
+        "description": "Vinyl siding is a popular choice for Columbus homeowners due to its affordability, durability, and low maintenance. We offer a wide range of vinyl siding options to suit any style and budget. We understand the need for weather-resistant siding in Columbus, given the frequent freeze-thaw cycles. Our vinyl siding is designed to withstand the elements and provide long-lasting protection for your home. We offer a variety of colors, textures, and styles to complement your home's architecture. From traditional lap siding to modern vertical siding, we have the perfect vinyl siding solution for your needs.\n\nOur experienced installers ensure a precise and professional installation. We pay close attention to detail, ensuring that every panel is properly fastened and sealed. We also offer a variety of trim and accessories to complete the look of your home. Our vinyl siding is resistant to fading, cracking, and warping, ensuring that your home looks its best for years to come. It's also easy to clean, requiring only occasional washing with soap and water.\n\nWe are committed to providing exceptional customer service and ensuring your complete satisfaction with our work. We offer a comprehensive warranty on all of our vinyl siding installations.",
+        "process": [
+          "Step 1: Consultation and selection of vinyl siding style and color.",
+          "Step 2: Precise measurement and cutting of vinyl siding panels.",
+          "Step 3: Professional installation with proper fastening and sealing.",
+          "Step 4: Installation of trim and accessories to complete the look."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and weather-resistant",
+          "Low-maintenance and easy to clean",
+          "Available in a wide range of colors and styles"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last?",
+            "answer": "Vinyl siding can last for 30-40 years with proper installation and maintenance."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Yes, vinyl siding can improve your home's energy efficiency by providing an extra layer of insulation."
+          },
+          {
+            "question": "Does vinyl siding require painting?",
+            "answer": "No, vinyl siding does not require painting. It's available in a wide range of colors that are designed to last for years."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding",
+        "name": "Fiber Cement Siding Services",
+        "shortDescription": "Durable and fire-resistant fiber cement siding for lasting beauty and protection.",
+        "description": "Fiber cement siding, like James Hardie, is a premium siding option that offers exceptional durability, fire resistance, and aesthetic appeal. We provide expert fiber cement siding installation and repair services for Columbus homeowners. Fiber cement siding is known for its ability to withstand harsh weather conditions, including the freeze-thaw cycles and spring thunderstorms common in Columbus. It's also resistant to insects, rot, and fire, making it a safe and long-lasting siding choice. We offer a variety of fiber cement siding styles, including clapboard, shingle, and vertical siding, to complement any architectural style.\n\nOur experienced installers are trained in the proper techniques for installing fiber cement siding. We pay close attention to detail, ensuring that every panel is properly fastened and sealed. We also offer a variety of trim and accessories to complete the look of your home. Fiber cement siding can be painted to match any color scheme, allowing you to customize the look of your home. It requires minimal maintenance and can last for decades with proper care.\n\nWe are committed to providing exceptional customer service and ensuring your complete satisfaction with our work. We offer a comprehensive warranty on all of our fiber cement siding installations.",
+        "process": [
+          "Step 1: Consultation and selection of fiber cement siding style and color.",
+          "Step 2: Precise cutting and fitting of fiber cement siding panels.",
+          "Step 3: Professional installation with proper fastening and sealing.",
+          "Step 4: Painting or staining to achieve the desired look."
+        ],
+        "benefits": [
+          "Exceptional durability and fire resistance",
+          "Resistance to insects and rot",
+          "Long-lasting and low-maintenance",
+          "Available in a variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50+ years with proper installation and maintenance."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is typically more expensive than vinyl siding, but it offers superior durability and fire resistance."
+          },
+          {
+            "question": "Can fiber cement siding be painted?",
+            "answer": "Yes, fiber cement siding can be painted to match any color scheme. It's important to use a high-quality exterior paint that is designed for use on fiber cement siding."
+          }
+        ]
+      },
+      {
+        "slug": "siding-inspections",
+        "name": "Siding Inspections",
+        "shortDescription": "Comprehensive siding inspections to identify potential problems and prevent costly repairs.",
+        "description": "Protect your investment with our professional siding inspection services. We provide thorough inspections to identify potential problems before they become costly repairs. We understand the importance of regular siding inspections in Columbus, given the area's fluctuating weather conditions. Our experienced inspectors will carefully examine your siding for signs of damage, such as cracks, dents, holes, warping, and loose or missing panels. We'll also check for signs of moisture damage, such as mold or mildew, and pest infestations.\n\nOur siding inspections include a detailed report outlining our findings and recommendations. We'll provide you with a clear understanding of the condition of your siding and any necessary repairs or maintenance. We can also help you develop a proactive maintenance plan to extend the lifespan of your siding. Our inspections can help you avoid costly repairs down the road by identifying and addressing problems early on. We use advanced tools and techniques to ensure a thorough and accurate inspection.\n\nWe are committed to providing exceptional customer service and ensuring your complete satisfaction with our work. We offer competitive pricing and flexible scheduling to meet your needs.",
+        "process": [
+          "Step 1: Visual inspection of siding for damage and deterioration.",
+          "Step 2: Moisture testing to identify potential water intrusion.",
+          "Step 3: Assessment of flashing and sealing around windows and doors.",
+          "Step 4: Detailed report with findings and recommendations."
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevention of costly repairs",
+          "Extended lifespan of your siding",
+          "Peace of mind knowing your home is protected"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my siding inspected?",
+            "answer": "We recommend having your siding inspected at least once a year, especially after severe weather events."
+          },
+          {
+            "question": "What are the benefits of a siding inspection?",
+            "answer": "A siding inspection can help you identify potential problems early on, prevent costly repairs, and extend the lifespan of your siding."
+          },
+          {
+            "question": "How much does a siding inspection cost?",
+            "answer": "The cost of a siding inspection depends on the size and complexity of your home. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dublin",
+        "slug": "dublin-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus is proud to offer our expert siding services to the residents of Dublin, Ohio. Known for its upscale subdivisions built primarily between the 1980s and 2000s, Dublin presents unique challenges and opportunities for siding installation and repair. We understand the architectural styles and aesthetic preferences common in Dublin neighborhoods, ensuring a seamless and beautiful result every time. \n\nDublin's climate, characterized by cold, snowy winters with frequent freeze-thaw cycles, can be particularly harsh on siding. This constant expansion and contraction can lead to cracks, warping, and other forms of damage. American Way Exteriors specializes in siding materials that are durable and weather-resistant, providing long-lasting protection for your Dublin home. We offer a variety of options to suit your budget and style, including vinyl, fiber cement, and wood siding.",
+        "localContext": "Dublin is known for its well-maintained homes and commitment to quality, making durable and aesthetically pleasing siding a priority for homeowners.",
+        "nearbyAreas": [
+          "Columbus",
+          "Hilliard",
+          "Westerville"
+        ]
+      },
+      {
+        "city": "Westerville",
+        "slug": "westerville-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus provides top-notch siding services to the residents of Westerville, Ohio. This established suburb, primarily developed in the 1970s and 80s, features a variety of home styles that require specialized siding solutions. We are experienced in working with the architectural nuances of Westerville homes, ensuring a perfect fit and finish for every project.\n\nWesterville experiences cold, snowy winters with frequent freeze-thaw cycles, which can be detrimental to siding. American Way Exteriors offers a range of siding options designed to withstand these harsh conditions, protecting your home from the elements and preventing costly repairs. We are committed to providing Westerville homeowners with reliable and affordable siding solutions.",
+        "localContext": "Westerville's mature neighborhoods often require siding upgrades and repairs to maintain their curb appeal and structural integrity.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Galena"
+        ]
+      },
+      {
+        "city": "Hilliard",
+        "slug": "hilliard-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus is dedicated to serving the siding needs of Hilliard, Ohio. This family-friendly suburb, largely developed in the 1980s and 90s, features many subdivisions with similar architectural styles. We have extensive experience working in Hilliard, understanding the common siding materials and challenges faced by homeowners in the area.\n\nHilliard's climate, with its cold, snowy winters and freeze-thaw cycles, can take a toll on siding. American Way Exteriors offers a wide selection of durable siding options, including vinyl, fiber cement, and insulated siding, to protect your home from the elements. We provide expert installation and repair services, ensuring that your Hilliard home remains beautiful and well-protected for years to come.",
+        "localContext": "Hilliard's focus on community and family values makes durable and attractive siding a crucial component of maintaining neighborhood pride.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Plain City"
+        ]
+      },
+      {
+        "city": "Grove City",
+        "slug": "grove-city-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus is proud to offer our siding expertise to the residents of Grove City, Ohio. Known for its affordable homes built primarily in the 1970s and 80s, Grove City presents unique considerations for siding installation and repair. We understand the common architectural styles and siding materials used in Grove City, ensuring a seamless and cost-effective solution for your home.\n\nGrove City's climate, characterized by cold, snowy winters with frequent freeze-thaw cycles, can cause significant damage to siding over time. American Way Exteriors specializes in providing durable and weather-resistant siding options that can withstand these harsh conditions. We offer a variety of styles and colors to enhance the curb appeal of your Grove City home while providing long-lasting protection.",
+        "localContext": "Grove City's focus on affordability makes cost-effective and durable siding solutions a priority for homeowners.",
+        "nearbyAreas": [
+          "Columbus",
+          "Hilliard",
+          "Orient"
+        ]
+      },
+      {
+        "city": "Powell",
+        "slug": "powell-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus provides high-quality siding services to the residents of Powell, Ohio. Powell is an upscale community with beautiful homes, and we understand the importance of maintaining their aesthetic appeal and structural integrity. We offer a wide range of siding options to match the diverse architectural styles found in Powell.\n\nThe climate in Powell is characterized by cold, snowy winters and warm, humid summers. This can put a strain on siding, leading to damage and deterioration over time. American Way Exteriors offers durable and weather-resistant siding materials that can withstand these harsh conditions, ensuring that your home remains protected for years to come. We are committed to providing Powell homeowners with reliable and affordable siding solutions.",
+        "localContext": "Powell's commitment to maintaining its upscale image makes high-quality siding essential for homeowners.",
+        "nearbyAreas": [
+          "Dublin",
+          "Columbus",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Delaware",
+        "slug": "delaware-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus is pleased to offer our expert siding services to the residents of Delaware, Ohio. Delaware features a mix of historic homes and newer developments, requiring a diverse range of siding solutions. We are experienced in working with the architectural styles of Delaware homes, ensuring a perfect fit and finish for every project.\n\nDelaware's climate, with its cold, snowy winters and freeze-thaw cycles, can be tough on siding. American Way Exteriors offers a range of siding options designed to withstand these harsh conditions, protecting your home from the elements and preventing costly repairs. We are committed to providing Delaware homeowners with reliable and affordable siding solutions.",
+        "localContext": "Delaware's blend of historic charm and modern living makes durable and aesthetically pleasing siding a priority for homeowners.",
+        "nearbyAreas": [
+          "Powell",
+          "Columbus",
+          "Marion"
+        ]
+      },
+      {
+        "city": "Reynoldsburg",
+        "slug": "reynoldsburg-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus is dedicated to serving the siding needs of Reynoldsburg, Ohio. This community features a mix of older and newer homes, each with its own unique siding needs. We have extensive experience working in Reynoldsburg, understanding the common siding materials and challenges faced by homeowners in the area.\n\nReynoldsburg's climate, with its cold, snowy winters and freeze-thaw cycles, can take a toll on siding. American Way Exteriors offers a wide selection of durable siding options, including vinyl, fiber cement, and insulated siding, to protect your home from the elements. We provide expert installation and repair services, ensuring that your Reynoldsburg home remains beautiful and well-protected for years to come.",
+        "localContext": "Reynoldsburg's diverse housing stock makes it important to choose the right siding for your home.",
+        "nearbyAreas": [
+          "Columbus",
+          "Pickerington",
+          "Whitehall"
+        ]
+      },
+      {
+        "city": "Pickerington",
+        "slug": "pickerington-oh",
+        "state": "OH",
+        "content": "American Way Exteriors - Columbus is proud to offer our siding expertise to the residents of Pickerington, Ohio. Pickerington features a variety of home styles, from traditional to contemporary, and we have the expertise to handle any siding project. We understand the importance of quality workmanship and customer satisfaction.\n\nThe climate in Pickerington, with its cold, snowy winters and warm, humid summers, can put a strain on siding. American Way Exteriors offers durable and weather-resistant siding materials that can withstand these harsh conditions, ensuring that your home remains protected for years to come. We are committed to providing Pickerington homeowners with reliable and affordable siding solutions.",
+        "localContext": "Pickerington's growing community makes durable and attractive siding a crucial component of maintaining neighborhood pride.",
+        "nearbyAreas": [
+          "Reynoldsburg",
+          "Canal Winchester",
+          "Columbus"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "American Way Exteriors did an amazing job installing new vinyl siding on our home in Clintonville. The crew was professional, efficient, and paid attention to every detail. Our house looks brand new!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage to our fiber cement siding in Upper Arlington, and American Way Exteriors was able to repair it quickly and seamlessly. You can't even tell there was any damage!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "We replaced the old, worn-out siding on our ranch home in Westerville with new vinyl siding from American Way Exteriors. The entire process was smooth and stress-free, and we're thrilled with the results.",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "The team at American Way Exteriors were fantastic from start to finish. They helped us choose the perfect siding for our Tudor in German Village and the installation was flawless. Highly recommend!",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had a few damaged panels on my siding due to woodpeckers. American Way Exteriors fixed it promptly at a fair price. Very happy with their service!",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "Our home's curb appeal has increased tenfold since American Way Exteriors installed new fiber cement siding. The quality of their work is outstanding.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Columbus Siding Contractor | American Way Exteriors",
+        "description": "Reliable siding installation & repair in Columbus, OH. Vinyl, fiber cement, wood siding. Free quotes! Protect your home."
+      },
+      "about": {
+        "title": "About Us | American Way Exteriors - Columbus, OH",
+        "description": "Learn more about American Way Exteriors, your trusted local siding contractor in Columbus. Quality materials, expert installation."
+      },
+      "services": {
+        "title": "Siding Services | Columbus, OH | American Way",
+        "description": "Comprehensive siding services in Columbus, OH. Installation, repair, replacement, vinyl, fiber cement. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Us | American Way Exteriors - Columbus, OH",
+        "description": "Contact American Way Exteriors for siding services in Columbus, OH. Get a free quote or schedule a consultation. Call us today!"
+      },
+      "reviews": {
+        "title": "Reviews | American Way Exteriors - Columbus, OH",
+        "description": "Read reviews from satisfied customers in Columbus, OH. See why American Way Exteriors is the trusted choice for siding services."
+      },
+      "service-areas": {
+        "title": "Service Areas | American Way Exteriors - Columbus, OH",
+        "description": "American Way Exteriors provides siding services throughout Columbus, OH and surrounding areas. See our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "siding-installation": "/images/service-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "vinyl-siding": "/images/service-vinyl-siding.webp",
+      "fiber-cement-siding": "/images/service-fiber-cement-siding.webp",
+      "siding-inspections": "/images/service-siding-inspections.webp"
+    },
+    "servicesResponsive": {
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-siding": {
+        "src": "/images/service-vinyl-siding.webp",
+        "srcset": "/images/service-vinyl-siding-400w.webp 400w, /images/service-vinyl-siding-800w.webp 800w, /images/service-vinyl-siding-1200w.webp 1200w, /images/service-vinyl-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding": {
+        "src": "/images/service-fiber-cement-siding.webp",
+        "srcset": "/images/service-fiber-cement-siding-400w.webp 400w, /images/service-fiber-cement-siding-800w.webp 800w, /images/service-fiber-cement-siding-1200w.webp 1200w, /images/service-fiber-cement-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-inspections": {
+        "src": "/images/service-siding-inspections.webp",
+        "srcset": "/images/service-siding-inspections-400w.webp 400w, /images/service-siding-inspections-800w.webp 800w, /images/service-siding-inspections-1200w.webp 1200w, /images/service-siding-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
